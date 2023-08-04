@@ -1,8 +1,9 @@
-Absolutely! Let's add some more excitement and enthusiasm to the ChatBotSpringAI README:
-
+<div align="center">
 # ChatBotSpringAI 🤖🌼
+</div>
 
-![Project Logo](link_to_logo_or_image.png)
+
+![Project Logo](images/poster.png)
 
 ## Description 🗣️💬
 
@@ -58,6 +59,48 @@ ChatBotSpringAI is now officially connected to the mind-blowing OpenAI ChatGPT A
 ## Configuration 🔧⚙️
 
 Customize your chatbot experience like a boss! 🎩🎉 Modify the application.properties file to tweak the API endpoint URL, adjust model settings, and fine-tune parameters for the most sensational chat responses. 🌟💬
+
+## Tools Used 🛠️
+
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="images/java.png" width="48" height="48" alt="Java" /><br>
+      Java
+    </td>
+    <td align="center" width="100">
+      <img src="images/maven.png" width="48" height="48" alt="Maven" /><br>
+      Maven
+    </td>
+    <td align="center" width="100">
+      <img src="images/springb.png" width="48" height="48" alt="Spring Boot" /><br>
+      Spring Boot
+    </td>
+    <td align="center" width="100">
+      <img src="images/restful.png" width="48" height="48" alt="RESTful API" /><br>
+      RESTful API
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="images/lombok.png" width="48" height="48" alt="Lombok" /><br>
+      Lombok
+    </td>
+    <td align="center" width="100">
+      <img src="images/sts.png" width="48" height="48" alt="Eclipse" /><br>
+      STS
+    </td>
+    <td align="center" width="100">
+      <img src="images/github.png" width="48" height="48" alt="GitHub" /><br>
+      GitHub
+    </td>
+    <td align="center" width="100">
+      <img src="images/postman.png" width="48" height="48" alt="Postman" /><br>
+      Postman
+    </td>
+  </tr>
+</table>
+
 
 ## Contributing 🤝🎉
 
